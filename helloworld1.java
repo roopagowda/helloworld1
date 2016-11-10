@@ -9,6 +9,7 @@ System.out.println("Welcome to Java Programming! on Ubuntu 10.04");
 
 System.out.println("Checking for second commit");
 System.out.println("Checking for third commit");
+System.out.println("Checking for fourth commit");
 
 
 } // method main ends here
